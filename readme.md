@@ -14,6 +14,11 @@ npm install
 Copy ```.env.example``` as ```.env```, set your api keys and server port
 
 
+### Run
+```
+npm run start
+```
+
 ## API doc
 ### Request (Query string)
 
